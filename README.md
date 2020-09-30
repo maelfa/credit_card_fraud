@@ -1,2 +1,2 @@
 # credit_card_fraud
-Anomaly Detection - Unsupervised - Deep learn - AutoEncoder
+Anomaly Detection - Unsupervised - Deep learning - AutoEncoder
